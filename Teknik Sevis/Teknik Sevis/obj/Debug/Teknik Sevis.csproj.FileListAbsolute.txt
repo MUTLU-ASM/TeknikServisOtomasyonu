@@ -1,0 +1,27 @@
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmGecisEkrani.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.Properties.Resources.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\Teknik Sevis.exe.config
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\Teknik Sevis.exe
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\Teknik Sevis.pdb
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.exe
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.pdb
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmGiris.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmAnasayfa.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\EntityFramework.dll
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\EntityFramework.xml
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmMusteriKayit.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik Sevis.csproj.CopyComplete
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmArizaKayit.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmTutarHesap.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmArizaListe.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmArizaBitir.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmHesapMakine.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmYoneticiSayfasi.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmPersonelIslemleri.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmMarkaTurIslem.resources
+C:\Users\Asım Mutlu\source\repos\Teknik Sevis\Teknik Sevis\obj\Debug\Teknik_Sevis.frmGelir.resources
